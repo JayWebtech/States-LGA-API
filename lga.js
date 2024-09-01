@@ -15,7 +15,7 @@ lgaList = {
       "Ukwa East",
       "Ukwa West",
       "Umuahia North",
-      "muahia South",
+      "Umuahia South",
       "Umu Nneochi"
     ],
     Adamawa: [
